@@ -1,0 +1,7 @@
+spring:
+  main:
+    banner-mode: OFF
+  data:
+    mongodb:
+      uri: mongodb://root:picpay@localhost:27017
+      database: rest-repository
